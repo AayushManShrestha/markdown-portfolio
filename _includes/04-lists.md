@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Books that I love
+* Ikigai
+* Man's Search For Meaning
+* Rich Dad Poor Dad
